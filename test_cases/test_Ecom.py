@@ -29,3 +29,4 @@ class TestEcomerces:
         self.log.info("comapring the After login Text is match or not %s ",self.compare)
         self.driver.save_screenshot("C:\\Users\\ASUS\\PycharmProjects\\Ecommerce\\Screenshots\\piyush.png")
         self.log.info("*************Execution Done**********")
+        print("Good")

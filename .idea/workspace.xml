@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c1115e0-05e8-43e3-9b70-1fd9110f826d" name="Changes" comment="" />
+    <list default="true" id="6c1115e0-05e8-43e3-9b70-1fd9110f826d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,17 +19,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Logs/logs.log" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/PageObjectModule/Ecommerce.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Utilities/logging.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/test_cases/conftest.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/test_cases/test_Ecom.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Logs/logs.log" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PageObjectModule/Ecommerce.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utilities/logging.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test_cases/conftest.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test_cases/test_Ecom.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2eRx8f3epsoR5QBb5K0ON3ULPm9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/pytest-frameworks"
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/pytest-frameworks",
+    "settings.editor.selected.configurable": "editor.reader.mode"
   }
 }]]></component>
   <component name="RunManager">
@@ -70,5 +77,16 @@
       <updated>1711881033530</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
