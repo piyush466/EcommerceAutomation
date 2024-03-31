@@ -1,3 +1,4 @@
 [
-  "test_Ecom.py::TestEcomerces::test_login"
+  "test_Ecom.py::TestEcomerces::test_login",
+  "test_practice.py::Testgood::test_Third"
 ]
