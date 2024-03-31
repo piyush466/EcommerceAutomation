@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6c1115e0-05e8-43e3-9b70-1fd9110f826d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/piyush.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/piyush.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/.pytest_cache/v/cache/lastfailed" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/pytest-frameworks",
-    "settings.editor.selected.configurable": "editor.reader.mode"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
