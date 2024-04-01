@@ -1,0 +1,6 @@
+[32mINFO    [0m names:test_Ecom.py:14 *************Execution started**********
+[32mINFO    [0m names:test_Ecom.py:16 *************Invoke the Browser**********
+[32mINFO    [0m names:test_Ecom.py:19 your username is: piyushdravyakar48@gmail.com
+[32mINFO    [0m names:test_Ecom.py:21 your password1 is: Piyush@123
+[32mINFO    [0m names:test_Ecom.py:29 comapring the After login Text is match or not AUTOMATION 
+[32mINFO    [0m names:test_Ecom.py:31 *************Execution Done**********
